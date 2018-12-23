@@ -1,14 +1,14 @@
 {
-  "name": "bitandbang",
+  "name": "cmakh",
   "version": "1.3.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Cooper Makhijani (@cmakh)... (forked from bnb/bitandbang)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "cmakh": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/cmakh/cmakh.git"
   },
   "scripts": {
     "prepublish": "npm run build",
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Cooper Makhijani <cooper@sudomoose.me> (http://sudomoose.me)",
   "license": "MIT",
   "files": [
     "bin/card.js",
